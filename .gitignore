@@ -1,0 +1,4 @@
+bin
+videos/*
+*.log
+.env
